@@ -1,0 +1,18 @@
+The selected algorithm is frequency
+
+(('的', 'PART'), ('一', 'NUM'))			1047		[('punct', 2)]
+(('这', 'PRON'), ('一', 'NUM'))			645		[('punct', 3)]
+(('一', 'NUM'), ('种', 'NOUN'))			626		[('punct', 94)]
+(('这', 'PRON'), ('是', 'VERB'))			584		[('punct', 21)]
+(('一', 'NUM'), ('年', 'NOUN'))			544		[('punct', 23)]
+(('就', 'ADV'), ('是', 'VERB'))			520		[('punct', 21)]
+(('两', 'NUM'), ('国', 'NOUN'))			505		[('punct', 9)]
+(('的', 'PART'), ('是', 'VERB'))			457		[('punct', 95)]
+(('一', 'NUM'), ('个', 'NOUN'))			441		[('punct', 386)]
+(('不', 'ADV'), ('是', 'VERB'))			408		[('punct', 18)]
+(('两', 'NUM'), ('个', 'NOUN'))			405		[('punct', 60)]
+(('他', 'PRON'), ('说', 'VERB'))			371		[('punct', 23)]
+(('一', 'NUM'), ('次', 'NOUN'))			354		[('punct', 39)]
+(('也', 'ADV'), ('是', 'VERB'))			354		[('punct', 3)]
+(('一', 'NUM'), ('位', 'NOUN'))			352		[('punct', 39)]
+(('的', 'PART'), ('问题', 'NOUN'))			344		[('punct', 4)]
